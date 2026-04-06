@@ -1,6 +1,6 @@
 # Mutation-specific impairment of TET2 and DNMT3A enzymatic activity predicts clonal hematopoiesis disease risk
 
-This repository contains the code and analysis scripts for [Pershad & Zhao et al, *Nature Medicine*, 2025](https://github.com/bicklab/mut-specific-methylation).
+This repository contains the code and analysis scripts for [Pershad & Zhao et al, medRxiv, 2025](https://github.com/bicklab/mut-specific-methylation).
 
 ## Table of Contents
 1. [Overview](#overview)
