@@ -1,6 +1,6 @@
 # Mutation-specific impairment of TET2 and DNMT3A enzymatic activity predicts clonal hematopoiesis disease risk
 
-This repository contains the code and analysis scripts for [Pershad & Zhao et al, medRxiv, 2025](https://github.com/bicklab/mut-specific-methylation).
+This repository contains the code and analysis scripts for [Pershad & Zhao et al, medRxiv, 2026](https://www.medrxiv.org/content/10.64898/2026.04.03.26350108v1).
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -140,7 +140,6 @@ The FHS cohort provided peripheral blood Illumina HumanMethylation450 (450K arra
 ```r
 # ============================================================
 # TET2 and DNMT3A Activity Score Construction
-# Pershad & Zhao et al., Nature Medicine, 2025
 # ============================================================
 # Requires:
 #   - beta_matrix: CpG x sample matrix of DNA methylation beta values (0–1)
@@ -390,7 +389,7 @@ Individual-level sequence data and CHIP calls are available to approved research
 
 If you use this code or find it helpful, please cite:
 
-> Pershad Y\*, Zhao K\*, Van Amburg JC, Corty RW, Parker AC, Silver AJ, Almadani Y, Kishtagari A, Hodges E, Savona MR, Heimlich JB†, Bick AG†. *Mutation-specific impairment of TET2 and DNMT3A enzymatic activity predicts clonal hematopoiesis disease risk.* Nature Medicine, 2025. \*Equal contribution. †Joint supervision.
+> Pershad Y\*, Zhao K\*, Van Amburg JC, Corty RW, Parker AC, Silver AJ, Almadani Y, Kishtagari A, Hodges E, Savona MR, Heimlich JB†, Bick AG†. *Mutation-specific impairment of TET2 and DNMT3A enzymatic activity predicts clonal hematopoiesis disease risk.* medRxiv, 2026. \*Equal contribution. †Joint supervision.
 
 ---
 
@@ -400,7 +399,7 @@ This project is licensed under the MIT License:
 
 MIT License
 
-Copyright (c) 2025 Yash Pershad
+Copyright (c) 2026 Yash Pershad
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
